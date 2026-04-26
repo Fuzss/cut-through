@@ -1,7 +1,7 @@
 package fuzs.cutthrough.fabric;
 
-import fuzs.cutthrough.CutThrough;
-import fuzs.puzzleslib.api.core.v1.ModConstructor;
+import fuzs.cutthrough.common.CutThrough;
+import fuzs.puzzleslib.common.api.core.v1.ModConstructor;
 import net.fabricmc.api.ModInitializer;
 
 public class CutThroughFabric implements ModInitializer {

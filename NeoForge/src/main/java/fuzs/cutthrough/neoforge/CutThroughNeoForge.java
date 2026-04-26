@@ -1,7 +1,7 @@
 package fuzs.cutthrough.neoforge;
 
-import fuzs.cutthrough.CutThrough;
-import fuzs.puzzleslib.api.core.v1.ModConstructor;
+import fuzs.cutthrough.common.CutThrough;
+import fuzs.puzzleslib.common.api.core.v1.ModConstructor;
 import net.neoforged.fml.common.Mod;
 
 @Mod(CutThrough.MOD_ID)

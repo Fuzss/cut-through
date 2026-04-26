@@ -1,10 +1,10 @@
-package fuzs.cutthrough.client;
+package fuzs.cutthrough.common.client;
 
-import fuzs.cutthrough.CutThrough;
-import fuzs.cutthrough.config.ClientConfig;
-import fuzs.puzzleslib.api.client.core.v1.ClientModConstructor;
-import fuzs.puzzleslib.api.client.event.v1.entity.player.InteractionInputEvents;
-import fuzs.puzzleslib.api.event.v1.core.EventResult;
+import fuzs.cutthrough.common.CutThrough;
+import fuzs.cutthrough.common.config.ClientConfig;
+import fuzs.puzzleslib.common.api.client.core.v1.ClientModConstructor;
+import fuzs.puzzleslib.common.api.client.event.v1.entity.player.InteractionInputEvents;
+import fuzs.puzzleslib.common.api.event.v1.core.EventResult;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.player.LocalPlayer;
 import net.minecraft.world.phys.EntityHitResult;

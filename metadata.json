@@ -1,9 +1,10 @@
 {
+    "minecraft": "26.1.2",
     "mod": {
         "id": "cutthrough",
         "group": "fuzs.cutthrough",
         "name": "Cut Through",
-        "version": "21.11.0",
+        "version": "26.1.0",
         "authors": [
             "Fuzs"
         ],
@@ -36,13 +37,13 @@
     ],
     "links": [
         {
-            "name": "github",
-            "slug": "cutthrough"
-        },
-        {
             "name": "curseforge",
             "slug": "cut-through",
             "id": "969423"
+        },
+        {
+            "name": "github",
+            "slug": "cut-through"
         },
         {
             "name": "modrinth",

@@ -1,4 +1,4 @@
-package fuzs.cutthrough.client.helper;
+package fuzs.cutthrough.common.client.helper;
 
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.level.ClipContext;

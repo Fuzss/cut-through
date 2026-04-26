@@ -1,11 +1,11 @@
-package fuzs.cutthrough.mixin.client;
+package fuzs.cutthrough.common.mixin.client;
 
 import com.llamalad7.mixinextras.injector.ModifyReturnValue;
 import com.llamalad7.mixinextras.sugar.Share;
 import com.llamalad7.mixinextras.sugar.ref.LocalRef;
-import fuzs.cutthrough.CutThrough;
-import fuzs.cutthrough.client.helper.GameRendererPickHelper;
-import fuzs.cutthrough.config.ClientConfig;
+import fuzs.cutthrough.common.CutThrough;
+import fuzs.cutthrough.common.client.helper.GameRendererPickHelper;
+import fuzs.cutthrough.common.config.ClientConfig;
 import net.minecraft.client.player.LocalPlayer;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.phys.HitResult;
