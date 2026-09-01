@@ -6,11 +6,17 @@
     "26.1.x": "maintained",
     "26.2.x": "primary"
   },
-  "properties": {
-    "distributions.curseforge.id": "969423",
-    "distributions.curseforge.slug": "cut-through",
-    "distributions.github.slug": "cut-through",
-    "distributions.modrinth.id": "Dk6su9JN",
-    "distributions.modrinth.slug": "cut-through"
+  "distributions": {
+    "curseforge": {
+      "id": "969423",
+      "slug": "cut-through"
+    },
+    "github": {
+      "slug": "cut-through"
+    },
+    "modrinth": {
+      "id": "Dk6su9JN",
+      "slug": "cut-through"
+    }
   }
 }
